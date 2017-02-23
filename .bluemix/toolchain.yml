@@ -9,7 +9,7 @@ git-micro-customer:
   service_id: githubpublic
   parameters:
     repo_name: "refarch-cloudnative-micro-customer-{{name}}"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-micro-customer"
+    repo_url: "https://github.com/sreek-iyer/refarch-cloudnative-micro-customer"
     type: clone
     has_issues: true
 
